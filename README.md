@@ -1,4 +1,4 @@
 # Exercicio-html-css
-Exercício Landing Page - treinando HTML e CSS
+Exercício Landing Page (carros) - treinando HTML e CSS
 
 https://catalogcar.netlify.app/
